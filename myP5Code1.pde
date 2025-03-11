@@ -27,6 +27,8 @@ draw = function(){
     } 
    }
   
+
+  
 };
 
 var drawScene = function(){
@@ -39,6 +41,9 @@ var drawScene = function(){
     textSize(20);
    
    text(sceneText, 10, 375);
+   
+   
+    }
 };
 
 
